@@ -2,6 +2,12 @@
 test any default password
 
 
+**TODO**
+
+ - [ ] ByPass captcha
+ - [ ] Put username and password manually
+
+
 **Usage:**
 
 > $ python tiexpress.py -h                                              
