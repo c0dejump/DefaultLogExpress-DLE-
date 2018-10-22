@@ -6,7 +6,7 @@ test any default password
 
  - [ ] ByPass captcha
  - [ ] Put username and password manually
- - [ ] multi error
+ - [ ] multi errors
 
 
 **Usage:**
